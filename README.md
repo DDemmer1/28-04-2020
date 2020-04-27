@@ -38,7 +38,8 @@ Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [📃  Sort a HashMap in Java](https://www.baeldung.com/java-hashmap-sort)
 
-
 - [🖊️ Stack Overflow - When to use HashMap over LinkedList or ArrayList and vice-versa](https://stackoverflow.com/questions/7975802/when-to-use-hashmap-over-linkedlist-or-arraylist-and-vice-versa)
 
 - [🖊️ Stack Overflow - Difference between HashMap, LinkedHashMap and TreeMap?](https://stackoverflow.com/questions/2889777/difference-between-hashmap-linkedhashmap-and-treemap/17708526#17708526)
+
+- [🖊️ Stack Overflow - When should a class be Comparable and/or Comparator?](https://stackoverflow.com/questions/1440134/when-should-a-class-be-comparable-and-or-comparator)
