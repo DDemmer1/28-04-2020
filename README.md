@@ -2,7 +2,7 @@
 
 Übungsaufgabe vom 28.04.2020 für die Studierenden des Java II Seminars der Universität zu Köln
 
-### Aufgabe:
+### 📝 Aufgabe:
 
 - Erstellt eine Klasse ```class Item```und füllt sie mit den Attributen ```String itemName```, ```int amount``` und ```float price```
 - Schreibt Getter und Setter für jedes Attribut der Klasse
@@ -21,7 +21,7 @@
 - Erzeugt aus eurer ```Map <String, Item>``` eine nach ```float price``` sortierte ```List<Item>```
 
 
-### Resourcen:
+### ℹ️ Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [🎥 Börges Seminar Video](https://uni-koeln.sciebo.de/s/CnL5Cg1opl8QceE?path=%2F02%20-%2029.04.2020%20-%20Gleichheit%20und%20Vergleiche#/)
