@@ -20,7 +20,7 @@
 
 - Erzeugt aus eurer ```Map <String, Item>``` eine nach ```float price``` sortierte ```List<Item>```
 
-- Lasst euch alle Preise der sortierten ```List<Item>``` in der Konsole ausgeben
+- Lasst euch alle ```float price``` der ```Item``` in der sortierten ```List<Item>``` in der Konsole ausgeben
 
 
 
