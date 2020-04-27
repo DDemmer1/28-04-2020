@@ -1,10 +1,10 @@
-# 28-04-2020 SoSe20 - Comparator und Map
+# 28-04-2020 SoSe20 - Map und Comparator 
 
 Übungsaufgabe vom 28.04.2020 für die Studierenden des Java II Seminars der Universität zu Köln
 
 ### Aufgabe:
 
-- Erstellt eine Klasse ```class Item```und füllt sie mit den Attributen ```String itemName```, ```int id``` und ```int price```
+- Erstellt eine Klasse ```class Item```und füllt sie mit den Attributen ```String itemName```, ```int amount``` und ```float price```
 - Schreibt Getter und Setter für jedes Attribut der Klasse
 
 - Schreibt einen Konstruktor für eure Klasse
@@ -14,7 +14,12 @@
 - Erzeugt 4 Objekte vom Typ ```Item``` und füllt eure ```Map <String, Item>``` damit
   - Der Key ```String``` soll dabei eine id aus Zahlen und Buchstaben darstellen.
 
-- Iteriert über eure ```Map``` und lasst euch ein Attribut von jedem ```Item``` in der Konsole ausgeben
+- Traversiert über eure ```Map <String, Item>``` und lasst euch ein Attribut von jedem ```Item``` in der Konsole ausgeben
+
+- Implementiert das Inteface ```Comparable<Item>``` in eure Klasse ```Item``` und lasst nach ```float price``` vergleichen
+
+- Erzeugt aus eurer ```Map <String, Item>``` eine nach ```float price``` sortierte ```List<Item>```
+
 
 ### Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
