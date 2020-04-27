@@ -1,4 +1,4 @@
-# 28-04-2020 SoSe20 - Map und Comparator 
+# 28-04-2020 SoSe20 - Map und Comparable 
 
 Übungsaufgabe vom 28.04.2020 für die Studierenden des Java II Seminars der Universität zu Köln
 
