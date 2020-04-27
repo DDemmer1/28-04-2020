@@ -13,8 +13,8 @@
   
 - Erzeugt 4 Objekte vom Typ ```Item``` und füllt eure ```Map <String, Item>``` damit
   - Der Key ```String``` soll dabei eine id aus Zahlen und Buchstaben darstellen.
-
-- Traversiert über eure ```Map <String, Item>``` und lasst euch ein Attribut von jedem ```Item``` in der Konsole ausgeben
+  
+- Traversiert über eure ```Map <String, Item>``` und lasst euch in der Konsole ein Attribut von jedem ```Item``` sowie den ```String``` Key des Eintrags ausgeben
 
 - Implementiert das Interface ```Comparable<Item>``` in eure Klasse ```Item``` und lasst nach ```float price``` vergleichen
 
