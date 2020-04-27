@@ -30,6 +30,8 @@ Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 - [🎥 Börges Seminar Video](https://uni-koeln.sciebo.de/s/CnL5Cg1opl8QceE?path=%2F02%20-%2029.04.2020%20-%20Gleichheit%20und%20Vergleiche#/)
 - [🎥 Java Tutorial - HashMap und TreeMap](https://www.youtube.com/watch?v=xeZkdm7tE3s)
 
+- [🎥 Java Comparable interface with funny animation](https://www.youtube.com/watch?v=swEvHhN9l8k)
+
 - [📃 Java HashMap - w3school](https://www.w3schools.com/java/java_hashmap.asp)
 
 - [📃  Die Klassen »HashMap« und »TreeMap«](http://openbook.rheinwerk-verlag.de/javainsel9/javainsel_13_008.htm#mj6251e23375a9e2c3e729ddc747e1f2ed)
