@@ -16,9 +16,12 @@
 
 - Traversiert über eure ```Map <String, Item>``` und lasst euch ein Attribut von jedem ```Item``` in der Konsole ausgeben
 
-- Implementiert das Inteface ```Comparable<Item>``` in eure Klasse ```Item``` und lasst nach ```float price``` vergleichen
+- Implementiert das Interface ```Comparable<Item>``` in eure Klasse ```Item``` und lasst nach ```float price``` vergleichen
 
 - Erzeugt aus eurer ```Map <String, Item>``` eine nach ```float price``` sortierte ```List<Item>```
+
+- Lasst euch alle Preise der sortierten ```List<Item>``` in der Konsole ausgeben
+
 
 
 ### ℹ️ Resourcen:
