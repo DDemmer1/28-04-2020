@@ -12,7 +12,7 @@
 - Erzeugt eine ```Map <String, Item>``` aus dem Java Collection Framework
   
 - Erzeugt 4 Objekte vom Typ ```Item``` und füllt eure ```Map <String, Item>``` damit
-  - Der Key ```String``` soll dabei eine id aus Zahlen und Buchstaben darstellen.
+  - Der Key ```String``` soll dabei eine id aus Zahlen und Buchstaben darstellen, z.B. "6dfg6sdfa"
   
 - Traversiert über eure ```Map <String, Item>``` und lasst euch in der Konsole ein Attribut von jedem ```Item``` sowie den ```String``` Key des Eintrags ausgeben
 
